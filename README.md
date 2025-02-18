@@ -157,11 +157,7 @@ Repeat the process in the [previous section](#61-horizontal-line) and control th
 
 ## 7 Feedback Form
 
-Before you leave, please fill out https://tinyurl.com/212-feedback. 
-
-| :white_check_mark: CHECKOFF 4 :white_check_mark:   |
-|:---------------------------------------------------|
-| Show the feedback form completion screen to a TA or LA. |
+New form TBD
 
 ## X Optional
 
