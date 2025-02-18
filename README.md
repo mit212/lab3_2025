@@ -176,3 +176,4 @@ Here are some optional challenges you can try if you finish lab early!
   Version 5 - 2021: Hanjun Song  
   Version 6 - 2023: Ravi Tejwani and Kentaro Barhydt  
   Version 7 - 2024: Jinger Chong, Josh Sohn
+  Version 8 - 2025: Roberto Bolli Jr., Kaleb Blake
