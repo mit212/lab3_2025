@@ -157,7 +157,7 @@ Repeat the process in the [previous section](#61-horizontal-line) and control th
 
 ## 7 Feedback Form
 
-New form TBD
+Tell the TAs if you have any feedback on a section of the lab! (Form URL TBD)
 
 ## X Optional
 
