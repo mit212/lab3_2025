@@ -163,8 +163,8 @@ Tell the TAs if you have any feedback on the lab handout! (Feedback form URL TBD
 
 Here are some optional challenges you can try if you finish lab early!
 
-1. Change `trajectory_type` to `HORIZONTAL_LINE`.
-2. Change `trajectory_type` to `CIRCLE`.
+1. Change `trajectoryType` in `drawing.cpp` to `HORIZONTAL_LINE`.
+2. Change `trajectorytype` to `CIRCLE`.
 3. Modify `lab_code/drawing.cpp` to create a fun, unique trajectory.
 4. Modify `test_code/inverse_kinematics_test.cpp` so that the errors are always `0` regardless of elbow-up or elbow-down configuration. 
 5. Tune the PID gains of both motors.
