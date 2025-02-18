@@ -44,7 +44,7 @@ Orient the arm so that it points straight up (+y direction) in full extension. T
 
 Then, run `test_code/motor_drive_test.cpp` to validate your motor setup. You can turn on motor power after clicking `RST`. You should see both motors oscillating back and forth. Remember that motor 1 is attached to the base (acts like a shoulder), and motor 2 is attached to the second link (acts like an elbow). 
 
-As a reminder, motor power should only be on when you expect the motor to move, such as in this section. Otherwise, please keep motor power off. The yellow LED on the motor driver indicates whether motor power is on or off.
+As a reminder, motor power should only be on when you expect the motor to move, such as in this section. Otherwise, please keep motor power off. The green LED on the motor driver indicates whether motor power is on or off.
 
 ### 1.3 Validate Encoders
 Run `test_code/encoder_test.cpp` to validate your encoder setup. Remember to open the Serial Monitor to see the output. Make sure that both the direction and the magnitude make sense!
