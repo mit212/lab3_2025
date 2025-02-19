@@ -113,7 +113,7 @@ We know from lecture that the forward kinematics equations are given by
 
 Open `lab_code/kinematics.cpp` and fill in `TODO 1` using the equations above. Please read the comments for hints.
 
-To check your implementation, run `lab_code/kinematics.cpp` and `test_code/forward_kinematics_test.cpp`. Make sure the arm is in the default position. In MATLAB, run `matlab/PathPlot.m`. Make sure to change the port name (lines 27-28) before running as needed. Move the arm around and confirm that line on the plot traces the path of the end-effector. 
+To check your implementation, run `lab_code/kinematics.cpp` and `test_code/forward_kinematics_test.cpp`. Make sure the arm is in the correct default position. In MATLAB, run `matlab/PathPlot.m`. Make sure to change the port name (lines 27-28) before running as needed. Move the arm around and confirm that line on the plot traces the path of the end-effector. 
 
 ## 5 Inverse Kinematics
 Estimated time of completion: 10 min
