@@ -118,7 +118,7 @@ To check your implementation, run `lab_code/kinematics.cpp` and `test_code/forwa
 ## 5 Inverse Kinematics
 Estimated time of completion: 10 min
 
-Consequently, we know from lecture that the inverse kinematics equations of the 2-DoF arm are given by 
+We know from lecture that the inverse kinematics equations of the 2-DoF arm are given by 
 
 <p align="center">
 <img src="./.images/ik.png" alt="ik" width="800"/>
