@@ -130,7 +130,7 @@ To check your implementation, then run `lab_code/kinematics.cpp` and `test_code/
 
 | :white_check_mark: CHECKOFF 2 :white_check_mark:   |
 |:---------------------------------------------------|
-| Demonstrate `test_code/inverse_kinematics_test.cpp` to a TA or LA  |
+| Demonstrate `test_code/inverse_kinematics_test.cpp` to a TA or LA. |
 
 ## 6 Cartesian Space
 Estimated time of completion: 10 min
