@@ -8,7 +8,7 @@ TaskSpace forwardKinematics(JointSpace state) {
     // TODO 1: Modify the two lines below to use the forward kinematics equations you derived. 
     // You may need the variables: L1, L2, state.theta1, state.theta2
     // as well as the functions: double cos(double x), double sin(double x), double tan(double x).
-    // These variables and functions are already defined, you don't need to define them here.
+    // These variables and functions are already defined in "kinematics.h", so you don't need to define them here.
     // point.x = 
     // point.y = 
 
