@@ -149,7 +149,7 @@ To see a direct comparison between the target and actual trajectories, run `matl
 
 Set `trajectoryType` to `JOYSTICK` in `TODO 2` of `drawing.cpp`. Then, complete `TODO 3` to translate the joystick reading into a reasonable setpoint in Cartesian space. 
 
-Repeat the process in the [previous section](#61-horizontal-line) and control the arm using your joystick! Remember to also run `matlab/TrajectoryPlot.m` and take a screenshot of the plot.
+Repeat the process in the [previous section](#61-vertical-line) and control the arm using your joystick! Remember to also run `matlab/TrajectoryPlot.m` and take a screenshot of the plot.
 
 | :white_check_mark: CHECKOFF 3 :white_check_mark:   |
 |:---------------------------------------------------|
