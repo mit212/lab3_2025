@@ -42,7 +42,7 @@ https://github.com/mit212/lab1_2025?tab=readme-ov-file#31-git-clone).
 
 Orient the arm so that it points straight up (+y direction) in full extension. This should always be the starting position of the arm.  
 
-Then, run `test_code/motor_drive_test.cpp` to validate your motor setup. You can turn on motor power after clicking `RST`. You should see both motors oscillating back and forth. Remember that motor 1 is attached to the base (acts like a shoulder), and motor 2 is attached to the second link (acts like an elbow). 
+Then, run `test_code/motor_drive_test.cpp` to validate your motor setup. Motor voltage should be set to about `5.2 V`. You can turn on motor power after clicking `RST`. You should see both motors oscillating back and forth. Remember that motor 1 is attached to the base (acts like a shoulder), and motor 2 is attached to the second link (acts like an elbow). 
 
 As a reminder, motor power should only be on when you expect the motor to move, such as in this section. Otherwise, please keep motor power off. The green LED on the motor driver indicates whether motor power is on or off.
 
