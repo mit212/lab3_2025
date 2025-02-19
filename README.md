@@ -126,7 +126,7 @@ We know from lecture that the inverse kinematics equations of the 2-DoF arm are 
 
 Open `lab_code/kinematics.cpp` and fill in `TODO 2` using the equations above. Please read the comments for hints.
 
-To check your implementation, then run `lab_code/kinematics.cpp` and `test_code/inverse_kinematics_test.cpp`. Open the Serial Monitor and move the arm around. Confirm that `theta1_error` and `theta2_error` are `0`.
+To check your implementation, then run `lab_code/kinematics.cpp` and `test_code/inverse_kinematics_test.cpp`. Open the Serial Monitor and move the arm around. Confirm that `theta1_error` and `theta2_error` are `0`. If they are not `0` at certain configurations be prepared to explain why.
 
 | :white_check_mark: CHECKOFF 2 :white_check_mark:   |
 |:---------------------------------------------------|
