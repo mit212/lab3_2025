@@ -143,7 +143,7 @@ Open `lab_code/drawing.cpp`. Complete `TODO 1` to update `newSetpoint` using the
 
 Now, run `lab_code/joystick.cpp`, `lab_code/kinematics.cpp`, and `lab_code/drawing.cpp`. The end-effector should roughly trace a 10cm vertical line. 
 
-To see a direct comparison between the target and actual trajectories, run `matlab/TrajectoryPlot.m`. Make sure to change the port name (lines 27-28) before running as needed. Hit the STOP button on MATLAB after collecting some data and take a screenshot of the plot. 
+To see a direct comparison between the target and actual trajectories, run `matlab/TrajectoryPlot.m` (do not reset the microcontroller; run the Matlab script as the motors are still moving). Make sure to change the port name (lines 27-28) before running as needed. Hit the STOP button on MATLAB after collecting some data and take a screenshot of the plot. 
 
 ### 6.2 Joystick
 
